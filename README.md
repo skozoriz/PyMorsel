@@ -1,0 +1,2 @@
+# PyMorsel
+PythonMorzel exercises
